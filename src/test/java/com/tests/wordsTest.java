@@ -27,7 +27,6 @@ public class wordsTest {
 
     }
 
-
     @Test
     public void verifyWordisPalindrome(){
         for(int i=0;i<words.length;i++){
